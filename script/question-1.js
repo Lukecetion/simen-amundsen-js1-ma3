@@ -6,4 +6,4 @@
 
 division = (a, b) => a % b;
 
-console.log(division(5, 2)); // Console Log test.
+// console.log(division(5, 2)); // Console Log test.
